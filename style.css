@@ -22,3 +22,17 @@ div#principal div#facebook h2{
     line-height: 32px;
     width: 500px;
 }
+
+div#principal div#facebook div#criar{
+    float: right;
+    margin-right: 250px;
+    margin-top: -260px;
+    display: block;
+    text-align: center;
+    width: 400px;
+    height: 350px;
+    box-shadow: -10px -10px 15px #fbfdff,
+    10px 10px 15px #d6dce4;
+    border-radius: 10px;
+}
+
